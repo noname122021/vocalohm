@@ -15,5 +15,6 @@
 -   **📱 SMD Code Interpretation**: Decodes 3-digit, 4-digit, and EIA-96 codes instantly.
 -   **⚡ Parallel Calculator**: Easily calculate equivalent resistance for multiple resistors (e.g., "parallel 10k and 10k").
 -   **📚 Built-in Reference**: High-speed lookup for standard E-Series (E24, E96, E192) and SMD sizes.
--   **💎 Premium Offline Mode**: Secure offline access via JWT activation for use in workshops with poor connectivity.
+-   **🔌 100% Offline & Private**: Works entirely on your device with no cookies, no tracking, and no internet required.
+-   **🚀 Lightning Fast**: Incredibly small size (~30KB gzipped) that loads in a fraction of a second even on slow connections.
 -   **🌐 Multi-language Support**: Fully localized in English and Russian.
