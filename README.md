@@ -11,9 +11,13 @@
 ### 🔗 [Try VocalOhm Live](https://noname122021.github.io/vocalohm/)
 
 <div align="center">
-  <img src="vocalohm-iphone-mockup-1.png" alt="VocalOhm iOS App Mockup" width="300" />
+  <a href="https://noname122021.github.io/vocalohm/">
+    <img src="vocalohm-iphone-mockup-1.png" alt="VocalOhm iOS App Mockup" width="300" />
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="vocalohm-iphone-mockup-2.png" alt="VocalOhm SMD Decoder Mockup" width="300" />
+  <a href="https://noname122021.github.io/vocalohm/">
+    <img src="vocalohm-iphone-mockup-2.png" alt="VocalOhm SMD Decoder Mockup" width="300" />
+  </a>
 </div>
 
 ---
