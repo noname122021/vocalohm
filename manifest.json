@@ -5,7 +5,8 @@
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
-  "description": "Голосовой калькулятор резисторов",
+  "description": "Voice-controlled resistor calculator and SMD decoder",
+  "categories": ["utilities", "education", "engineering"],
   "icons": [
     {
       "src": "apple-touch-icon.png",
