@@ -2,19 +2,172 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://noname122021.github.io/vocalohm/</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://noname122021.github.io/vocalohm/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://noname122021.github.io/vocalohm/" />
-    <xhtml:link rel="alternate" hreflang="uk" href="https://noname122021.github.io/vocalohm/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://noname122021.github.io/vocalohm/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://noname122021.github.io/vocalohm/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://noname122021.github.io/vocalohm/" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://noname122021.github.io/vocalohm/" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://noname122021.github.io/vocalohm/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="https://noname122021.github.io/vocalohm/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://noname122021.github.io/vocalohm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://noname122021.github.io/vocalohm/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://noname122021.github.io/vocalohm/?lang=uk" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://noname122021.github.io/vocalohm/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://noname122021.github.io/vocalohm/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://noname122021.github.io/vocalohm/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://noname122021.github.io/vocalohm/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://noname122021.github.io/vocalohm/?lang=pl" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://noname122021.github.io/vocalohm/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://noname122021.github.io/vocalohm/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://noname122021.github.io/vocalohm/" />
+  </url>
+  <url>
+    <loc>https://noname122021.github.io/vocalohm/?lang=ru</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://noname122021.github.io/vocalohm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://noname122021.github.io/vocalohm/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://noname122021.github.io/vocalohm/?lang=uk" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://noname122021.github.io/vocalohm/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://noname122021.github.io/vocalohm/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://noname122021.github.io/vocalohm/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://noname122021.github.io/vocalohm/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://noname122021.github.io/vocalohm/?lang=pl" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://noname122021.github.io/vocalohm/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://noname122021.github.io/vocalohm/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://noname122021.github.io/vocalohm/" />
+  </url>
+  <url>
+    <loc>https://noname122021.github.io/vocalohm/?lang=uk</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://noname122021.github.io/vocalohm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://noname122021.github.io/vocalohm/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://noname122021.github.io/vocalohm/?lang=uk" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://noname122021.github.io/vocalohm/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://noname122021.github.io/vocalohm/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://noname122021.github.io/vocalohm/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://noname122021.github.io/vocalohm/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://noname122021.github.io/vocalohm/?lang=pl" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://noname122021.github.io/vocalohm/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://noname122021.github.io/vocalohm/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://noname122021.github.io/vocalohm/" />
+  </url>
+  <url>
+    <loc>https://noname122021.github.io/vocalohm/?lang=de</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://noname122021.github.io/vocalohm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://noname122021.github.io/vocalohm/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://noname122021.github.io/vocalohm/?lang=uk" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://noname122021.github.io/vocalohm/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://noname122021.github.io/vocalohm/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://noname122021.github.io/vocalohm/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://noname122021.github.io/vocalohm/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://noname122021.github.io/vocalohm/?lang=pl" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://noname122021.github.io/vocalohm/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://noname122021.github.io/vocalohm/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://noname122021.github.io/vocalohm/" />
+  </url>
+  <url>
+    <loc>https://noname122021.github.io/vocalohm/?lang=es</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://noname122021.github.io/vocalohm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://noname122021.github.io/vocalohm/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://noname122021.github.io/vocalohm/?lang=uk" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://noname122021.github.io/vocalohm/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://noname122021.github.io/vocalohm/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://noname122021.github.io/vocalohm/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://noname122021.github.io/vocalohm/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://noname122021.github.io/vocalohm/?lang=pl" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://noname122021.github.io/vocalohm/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://noname122021.github.io/vocalohm/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://noname122021.github.io/vocalohm/" />
+  </url>
+  <url>
+    <loc>https://noname122021.github.io/vocalohm/?lang=fr</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://noname122021.github.io/vocalohm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://noname122021.github.io/vocalohm/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://noname122021.github.io/vocalohm/?lang=uk" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://noname122021.github.io/vocalohm/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://noname122021.github.io/vocalohm/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://noname122021.github.io/vocalohm/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://noname122021.github.io/vocalohm/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://noname122021.github.io/vocalohm/?lang=pl" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://noname122021.github.io/vocalohm/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://noname122021.github.io/vocalohm/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://noname122021.github.io/vocalohm/" />
+  </url>
+  <url>
+    <loc>https://noname122021.github.io/vocalohm/?lang=it</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://noname122021.github.io/vocalohm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://noname122021.github.io/vocalohm/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://noname122021.github.io/vocalohm/?lang=uk" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://noname122021.github.io/vocalohm/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://noname122021.github.io/vocalohm/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://noname122021.github.io/vocalohm/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://noname122021.github.io/vocalohm/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://noname122021.github.io/vocalohm/?lang=pl" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://noname122021.github.io/vocalohm/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://noname122021.github.io/vocalohm/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://noname122021.github.io/vocalohm/" />
+  </url>
+  <url>
+    <loc>https://noname122021.github.io/vocalohm/?lang=pl</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://noname122021.github.io/vocalohm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://noname122021.github.io/vocalohm/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://noname122021.github.io/vocalohm/?lang=uk" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://noname122021.github.io/vocalohm/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://noname122021.github.io/vocalohm/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://noname122021.github.io/vocalohm/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://noname122021.github.io/vocalohm/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://noname122021.github.io/vocalohm/?lang=pl" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://noname122021.github.io/vocalohm/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://noname122021.github.io/vocalohm/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://noname122021.github.io/vocalohm/" />
+  </url>
+  <url>
+    <loc>https://noname122021.github.io/vocalohm/?lang=zh</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://noname122021.github.io/vocalohm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://noname122021.github.io/vocalohm/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://noname122021.github.io/vocalohm/?lang=uk" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://noname122021.github.io/vocalohm/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://noname122021.github.io/vocalohm/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://noname122021.github.io/vocalohm/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://noname122021.github.io/vocalohm/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://noname122021.github.io/vocalohm/?lang=pl" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://noname122021.github.io/vocalohm/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://noname122021.github.io/vocalohm/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://noname122021.github.io/vocalohm/" />
+  </url>
+  <url>
+    <loc>https://noname122021.github.io/vocalohm/?lang=ja</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://noname122021.github.io/vocalohm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://noname122021.github.io/vocalohm/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://noname122021.github.io/vocalohm/?lang=uk" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://noname122021.github.io/vocalohm/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://noname122021.github.io/vocalohm/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://noname122021.github.io/vocalohm/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://noname122021.github.io/vocalohm/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://noname122021.github.io/vocalohm/?lang=pl" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://noname122021.github.io/vocalohm/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://noname122021.github.io/vocalohm/?lang=ja" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://noname122021.github.io/vocalohm/" />
   </url>
 </urlset>
